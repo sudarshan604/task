@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "4",
+      "name": "Fiona Gallagher",
+      "email": "fiona.gallagher@example.com",
+      "phone": "555-678-9012",
+      "company": "UrbanRise",
+      "gender": "female"
+    },
+    {
+      "id": "5",
+      "name": "George Miller",
+      "email": "george.miller@example.com",
+      "phone": "555-789-0123",
+      "company": "FutureSoft",
+      "gender": "male"
+    },
+    {
+      "name": "Sudarshan Kshetrir",
+      "email": "Sudarshandn1999@gmail.com",
+      "phone": "555-789-0123",
+      "company": "FutureSoft",
+      "id": "89a0"
+    },
+    {
+      "name": "my Princess second",
+      "email": "diana.prince@example.com",
+      "phone": "9767553106",
+      "company": "CreativeHub",
+      "id": "f724"
+    },
+    {
+      "id": "283f",
+      "name": "Diana Princess",
+      "email": "diana.prince@example.com",
+      "phone": "9767553106",
+      "company": "FutureSoft"
+    }
+  ]
+}
