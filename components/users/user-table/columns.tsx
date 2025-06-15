@@ -22,6 +22,7 @@ export const columns: TableProps<ColumnType>["columns"] = [
     title: "Name",
     dataIndex: "name",
     key: "name",
+    width: "20%",
     render: (text) => <Typography.Text>{text}</Typography.Text>,
   },
   {

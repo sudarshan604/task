@@ -1,13 +1,6 @@
 {
   "users": [
     {
-      "id": "7607",
-      "name": "Sudarshan Kshetri",
-      "email": "Sudarshandn1999@gmail.com",
-      "phone": "9767553106",
-      "company": "FutureSoft"
-    },
-    {
       "id": "7608",
       "name": "Anisha Gurung",
       "email": "anisha.gurung@example.com",
@@ -22,18 +15,53 @@
       "company": "TechNova"
     },
     {
-      "id": "7610",
       "name": "Pratiksha Joshi",
       "email": "pratiksha.joshi@example.com",
-      "phone": "9801234567",
+      "phone": "9801234564",
+      "company": "InnovateX",
+      "id": "7610"
+    },
+    {
+      "name": "Roshan ",
+      "email": "roshan.shrestha@example.com",
+      "phone": "9865432109",
+      "company": "DigitalEdge",
+      "id": "7611"
+    },
+    {
+      "id": "9b6e",
+      "name": "john doe",
+      "email": "john@gmail.com",
+      "phone": "555-789-0123",
+      "company": "WonderTech"
+    },
+    {
+      "name": "scrima",
+      "email": "scrimba@gmail.com",
+      "phone": "9767553103",
+      "company": "InnovateX",
+      "id": "6bde"
+    },
+    {
+      "id": "fe40",
+      "name": "scrima1",
+      "email": "scrimba1@gmail.com",
+      "phone": "9767553105",
       "company": "InnovateX"
     },
     {
-      "id": "7611",
-      "name": "Roshan Shrestha",
-      "email": "roshan.shrestha@example.com",
-      "phone": "9865432109",
-      "company": "DigitalEdge"
+      "id": "6eb4",
+      "name": "jonethan",
+      "email": "jonethn@gmail.com",
+      "phone": "9767553105",
+      "company": "InnovateX"
+    },
+    {
+      "id": "1aad",
+      "name": "smilga",
+      "email": "smilga@gmail.com",
+      "phone": "555-456-7890",
+      "company": "InnovateX"
     }
   ]
 }

@@ -11,7 +11,7 @@ const UserTable = () => {
   const { Text } = Typography;
   const [isOpen, setIsOpen] = useState(false);
   const [query, setQuery] = useState("");
-  const [filter, setFilter] = useState({ skip: 0, take: 8 });
+  const [filter, setFilter] = useState({ skip: 0, take: 6 });
 
   const { data: users, isLoading } = useGetUsersQuery();
 
