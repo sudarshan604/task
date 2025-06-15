@@ -1,33 +1,39 @@
 {
   "users": [
     {
-      "name": "Fiona Gallagherr",
-      "email": "fiona.gallagher@example.com",
-      "phone": "555-678-9012",
-      "company": "UrbanRise",
-      "id": "4"
-    },
-    {
-      "id": "5",
-      "name": "George Miller",
-      "email": "george.miller@example.com",
-      "phone": "555-789-0123",
-      "company": "FutureSoft",
-      "gender": "male"
-    },
-    {
-      "name": "Sudarshan Kshetrir",
+      "id": "7607",
+      "name": "Sudarshan Kshetri",
       "email": "Sudarshandn1999@gmail.com",
-      "phone": "555-789-0123",
-      "company": "FutureSoft",
-      "id": "89a0"
+      "phone": "9767553106",
+      "company": "FutureSoft"
     },
     {
-      "name": "my Princess second",
-      "email": "diana.prince@example.com",
-      "phone": "9767553106",
-      "company": "CreativeHub",
-      "id": "f724"
+      "id": "7608",
+      "name": "Anisha Gurung",
+      "email": "anisha.gurung@example.com",
+      "phone": "9812345678",
+      "company": "CodeWave"
+    },
+    {
+      "id": "7609",
+      "name": "Bibek Thapa",
+      "email": "bibek.thapa@example.com",
+      "phone": "9845123456",
+      "company": "TechNova"
+    },
+    {
+      "id": "7610",
+      "name": "Pratiksha Joshi",
+      "email": "pratiksha.joshi@example.com",
+      "phone": "9801234567",
+      "company": "InnovateX"
+    },
+    {
+      "id": "7611",
+      "name": "Roshan Shrestha",
+      "email": "roshan.shrestha@example.com",
+      "phone": "9865432109",
+      "company": "DigitalEdge"
     }
   ]
 }

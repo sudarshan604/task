@@ -25,6 +25,9 @@ export default function UpdateUserForm({
   const { notification } = AntdApp.useApp();
 
   const handleOnFinish = async (values: Partial<ColumnType>) => {
+    console.log(values);
+    return;
+
     try {
       const updatedUser = await updateUser({ id, ...values }).unwrap();
       dispatch(

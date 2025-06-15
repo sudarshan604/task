@@ -22,7 +22,6 @@ export default function CreateUserForm({
   const [addUser, { isLoading }] = useAddUserMutation();
 
   const handleOnFinish = async (values: Partial<ColumnType>) => {
-    // const id = Date.now();
     try {
       const updatedUser = await addUser({
         ...values,
