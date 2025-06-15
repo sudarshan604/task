@@ -28,16 +28,19 @@ export const columns: TableProps<ColumnType>["columns"] = [
     title: "Email",
     dataIndex: "email",
     key: "Email",
+    responsive: ["sm"],
   },
   {
     title: "Phone",
     dataIndex: "phone",
     key: "Phone",
+    responsive: ["sm"],
   },
   {
     title: "Company",
     dataIndex: "phone",
     key: "Company",
+    responsive: ["sm"],
   },
   {
     title: "Action",

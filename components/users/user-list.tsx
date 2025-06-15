@@ -173,7 +173,7 @@ const UserList = () => {
       >
         <Flex wrap="wrap" justify="center" gap={16} style={{ width: "100%" }}>
           {filteredUsers.map((user) => (
-            <UserCard key={user.email} data={user} />
+            <UserCard key={user.email + user.id.value} data={user} />
           ))}
         </Flex>
       </InfiniteScroll>

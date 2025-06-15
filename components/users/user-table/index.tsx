@@ -38,7 +38,13 @@ const UserTable = () => {
   }, [filteredUsers, filter]);
 
   return (
-    <Layout.Content>
+    <Layout.Content
+      style={{
+        minHeight: "100vh",
+        marginTop: "40px",
+        padding: "0 20px",
+      }}
+    >
       <Table
         loading={isLoading}
         title={() => (

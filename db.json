@@ -1,12 +1,11 @@
 {
   "users": [
     {
-      "id": "4",
-      "name": "Fiona Gallagher",
+      "name": "Fiona Gallagherr",
       "email": "fiona.gallagher@example.com",
       "phone": "555-678-9012",
       "company": "UrbanRise",
-      "gender": "female"
+      "id": "4"
     },
     {
       "id": "5",
@@ -29,13 +28,6 @@
       "phone": "9767553106",
       "company": "CreativeHub",
       "id": "f724"
-    },
-    {
-      "id": "283f",
-      "name": "Diana Princess",
-      "email": "diana.prince@example.com",
-      "phone": "9767553106",
-      "company": "FutureSoft"
     }
   ]
 }
